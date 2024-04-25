@@ -1,0 +1,22 @@
+{
+  "name": "guest_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicroDreamIT/IBM-Docker-Kubernetes-Openshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicroDreamIT/IBM-Docker-Kubernetes-Openshift/issues"
+  },
+  "homepage": "https://github.com/MicroDreamIT/IBM-Docker-Kubernetes-Openshift#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
